@@ -2,17 +2,18 @@
 ## Requirements
 
 ### Windows
-- there are no other modules to install.
+- pip install pyautogui
 
 ### OS X
 - sudo pip3 install pyobjc-framework-Quartz
 - sudo pip3 install pyobjc-core
 - sudo pip3 install pyobjc
+- sudo pip3 install pyautogui
 
 ### Linux
 - sudo pip3 install python3-xlib 
 - apt-get scrot
-
+- sudo pip3 install pyautogui
 
 ## Example (terminal)
 
